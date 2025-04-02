@@ -3,6 +3,7 @@
 <div>
   <a href="https://github.com/IsmaelVas">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsmaelVas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+    <br>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelVas&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens mais usadas"/>
   </a>
 </div>
@@ -14,6 +15,8 @@
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+---
+<br>
 ---
 
 ### Me siga nas redes abaixo!
