@@ -16,7 +16,7 @@
 ---
 
 <div style="display: flex; gap: 10px;">
-  <a href="https://ismaelvas.github.io/html-css/modulo%201/desafios/desafio02/index.html" target="_blank"><img src="https://files.softicons.com/download/culture-icons/popular-anime-icons-by-iconspedia/ico/Dragonball-Goku.ico" target="_blank"></a>
+  <a href="https://ismaelvas.github.io/html-css/modulo%201/desafios/desafio02/index.html" target="_blank"><img src="https://img.icons8.com/?size=256&id=EogUzg3Whg7w&format=png" target="_blank"></a>
 </div>
 
 ---
