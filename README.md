@@ -18,7 +18,7 @@
 
 ### Projetos feitos por mim:
 <div style="display: flex; gap: 10px;">
-  <a href="https://ismaelvas.github.io/html-css/modulo%201/desafios/desafio02/" target="_blank"><img src="https://www.flaticon.com/br/icone-gratis/jogar_12652560?term=bola+azul&page=1&position=11&origin=search&related_id=12652560" target="_blank"></a>
+  <a href="https://ismaelvas.github.io/html-css/modulo%201/desafios/desafio02/" target="_blank">Projeto Anime</a>
 </div>
 
 ---
