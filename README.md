@@ -16,7 +16,7 @@
 ---
 
 <div style="display: flex; gap: 10px;">
-  <a href="https://ismaelvas.github.io/html-css/modulo%201/desafios/desafio02/index.html" target="_blank">Projeto Anime</a>
+  <a href="https://ismaelvas.github.io/html-css/modulo%201/desafios/desafio02/" target="_blank">Projeto Anime</a>
 </div>
 
 ---
