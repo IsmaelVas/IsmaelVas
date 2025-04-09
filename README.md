@@ -16,9 +16,7 @@
 ---
 
 <div style="display: flex; gap: 10px;">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://ismaelvas.github.io/html-css/modulo%201/desafios/desafio02/index.html">
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <a href="https://ismaelvas.github.io/html-css/modulo%201/desafios/desafio02/index.html" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 ---
