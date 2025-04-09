@@ -18,7 +18,7 @@
 
 ### Projetos feitos por mim:
 <div style="display: flex; gap: 10px;">
-  <a href="https://ismaelvas.github.io/html-css/modulo%201/desafios/desafio02/" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fwanyo%2Fart%2FOctober-14th-The-Bed-709934567&psig=AOvVaw1FNfJi02aQ9DAUr4wPn_Bv&ust=1744294536709000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJiQ3dqRy4wDFQAAAAAdAAAAABAI" target="_blank"></a>
+  <a href="https://ismaelvas.github.io/html-css/modulo%201/desafios/desafio02/" target="_blank"><img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fwanyo%2Fart%2FOctober-14th-The-Bed-709934567&psig=AOvVaw1FNfJi02aQ9DAUr4wPn_Bv&ust=1744294536709000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJiQ3dqRy4wDFQAAAAAdAAAAABAI](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/47a536d5-7647-4379-a2fe-83122cb5f867/dbqod0n-1cf30312-012c-4b39-98ef-aac6b099f5ed.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ3YTUzNmQ1LTc2NDctNDM3OS1hMmZlLTgzMTIyY2I1Zjg2N1wvZGJxb2Qwbi0xY2YzMDMxMi0wMTJjLTRiMzktOThlZi1hYWM2YjA5OWY1ZWQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.dluaeDAUJlltXHcu2U6hAJFIgtw9R7x3LQh9Mah_weg)" target="_blank"></a>
 </div>
 
 ---
