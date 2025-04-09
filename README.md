@@ -18,7 +18,7 @@
 
 ### Projetos feitos por mim:
 <div style="display: flex; gap: 10px;">
-  <a href="https://ismaelvas.github.io/html-css/modulo%201/desafios/desafio02/" target="_blank"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/ef90e838-b99b-407f-87ba-938853ec53c0/de2luba-c2fe06d4-7dd0-4dea-a73e-ddf1ee94f621.png/v1/fill/w_256,h_256/jujutsu_kaisen_folder_icon_by_kiddblaster_de2luba-fullview.png" target="_blank"></a>
+  <a href="https://ismaelvas.github.io/html-css/modulo%201/desafios/desafio02/" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fwanyo%2Fart%2FOctober-14th-The-Bed-709934567&psig=AOvVaw1FNfJi02aQ9DAUr4wPn_Bv&ust=1744294536709000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJiQ3dqRy4wDFQAAAAAdAAAAABAI" target="_blank"></a>
 </div>
 
 ---
