@@ -18,7 +18,7 @@
 
 ### Projetos feitos por mim:
 <div style="display: flex; gap: 10px;">
-  <a href="https://ismaelvas.github.io/html-css/modulo%201/desafios/desafio02/" target="_blank"><img src="https://styles.redditmedia.com/t5_3ofro/styles/communityIcon_hx4thg2ikey71.png" target="_blank"></a>
+  <a href="https://ismaelvas.github.io/html-css/modulo%201/desafios/desafio02/" target="_blank"><img src="file:///C:/Users/Ismael%20Vas/Desktop/Sem%20t%C3%ADtulo1.png" target="_blank"></a>
 </div>
 
 ---
