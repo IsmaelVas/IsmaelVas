@@ -20,6 +20,7 @@
 <div style="display: flex; gap: 10px;">
   <a href="https://ismaelvas.github.io/html-css/modulo%201/desafios/desafio02/" target="_blank"><strong>Projeto Anime</strong></a>
   <a href="https://ismaelvas.github.io/projeto-android/" target="_blank"><strong>Projeto Android</strong></a>
+  <a href="https://ismaelvas.github.io/projeto-dragon-ball/" target="_blank"><strong>Projeto Dragon Ball</strong></a>
 </div>
 
 ---
