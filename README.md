@@ -19,7 +19,7 @@
 ### Projetos feitos por mim:
 <div style="display: flex; gap: 10px;">
   <a href="https://ismaelvas.github.io/html-css/modulo%201/desafios/desafio02/" target="_blank"><strong>Projeto Anime</strong></a>
-  <a href="https://ismaelvas.github.io/html-css/modulo%202/desafios/d01/" target="_blank"><strong>Projeto Android</strong></a>
+  <a href="https://ismaelvas.github.io/projeto-android/" target="_blank"><strong>Projeto Android</strong></a>
 </div>
 
 ---
